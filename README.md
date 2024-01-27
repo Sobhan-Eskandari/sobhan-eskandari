@@ -8,3 +8,7 @@ I'm Sobhan lead iOS developer trying to make the future of **Crypto** at [Nito L
 - 💬 Ask me about iOS or Swift
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
+
+## Where to Follow
+[![Telegram](https://img.shields.io/twitter/url?color=blue&label=SobhanEskandari&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2SobhanEskandari)](https://t.me/sobhaneskandari) 
+[![Twitter](https://img.shields.io/twitter/url?color=blue&label=SobhanEskandari&style=social&url=https%3A%2F%2Ftwitter.com%2SobhaneEskandari)](https://twitter.com/sobhanes)
