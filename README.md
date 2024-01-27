@@ -7,4 +7,4 @@ I'm Sobhan lead iOS developer trying to make the future of **Crypto** at [Nito L
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about iOS or Swift
 - 📫 How to reach me: 
-- 😄 Pronouns: hi/him
+- 😄 Pronouns: he/him
